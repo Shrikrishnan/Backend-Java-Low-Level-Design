@@ -36,8 +36,8 @@ public class MergerSorter implements Callable <List<Integer>> {
         }
         //ExecutorService e = Executors.newCachedThreadPool();
 
-        MergerSorter FC = new MergerSorter(f);
-        MergerSorter SC = new MergerSorter(s);
+        MergerSorter FC = new MergerSorter(f,se);
+        MergerSorter SC = new MergerSorter(s,se);
         Future<List<Integer> > futureF  = se.submit(FC);
         Future<List<Integer> > futureS  = se.submit(SC);
         List<Integer> ff =  futureF.get();

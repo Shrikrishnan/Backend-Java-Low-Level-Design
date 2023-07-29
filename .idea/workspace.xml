@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="347c402f-eb28-4ff2-8a6b-afd32444138b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ConcurrencExecutorAndCallablesRevision/Callables/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ConcurrencExecutorAndCallablesRevision/Callables/MergerSorter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/jarRepositories.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ConcurrencExecutorAndCallablesRevision/Callables/MergerSorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ConcurrencExecutorAndCallablesRevision/Callables/MergerSorter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/main/java/Student.java" beforeDir="false" />
@@ -179,7 +177,7 @@
       <workItem from="1690471619452" duration="9421000" />
       <workItem from="1690530236527" duration="3499000" />
       <workItem from="1690538316265" duration="2959000" />
-      <workItem from="1690599216652" duration="6391000" />
+      <workItem from="1690599216652" duration="8700000" />
     </task>
     <servers />
   </component>
