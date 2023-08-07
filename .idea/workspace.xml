@@ -5,11 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="347c402f-eb28-4ff2-8a6b-afd32444138b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Abstract/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interfac/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interfac/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interfac/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/interfac/Main1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Create related classes 1 - (Point and Rectangle)" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Scaler_Video_Library" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../class-client-display-method----method-overloading-and-overriding-base" afterDir="false" />
@@ -202,7 +197,7 @@
       <workItem from="1691006001538" duration="3495000" />
       <workItem from="1691172774413" duration="2786000" />
       <workItem from="1691210253573" duration="49000" />
-      <workItem from="1691228070310" duration="5406000" />
+      <workItem from="1691228070310" duration="7361000" />
     </task>
     <servers />
   </component>
