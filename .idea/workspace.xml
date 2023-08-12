@@ -5,6 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="347c402f-eb28-4ff2-8a6b-afd32444138b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/AbstractClass/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AbstractClass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections2/PriorityQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Statick/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Statick/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Statick/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Statick/StudetInterface.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Create related classes 1 - (Point and Rectangle)" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Scaler_Video_Library" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../class-client-display-method----method-overloading-and-overriding-base" afterDir="false" />
@@ -21,6 +28,7 @@
       <change afterPath="$PROJECT_DIR$/../threads-with-callables-2-base" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../threads-with-callables-base" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Abstract/Client.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Spring/explorecali/explorecali/src/main/java/com/example/ec/explorecali/ExplorecaliApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/explorecali/explorecali/src/main/java/com/example/ec/explorecali/ExplorecaliApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,72 +75,72 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Java Projects/Spring&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Java Projects/Backend Java Low Level Design/src/main/java/com/lld/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Java Projects/Spring",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/Java Projects/Backend Java Low Level Design/src/main/java/com/lld/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;,
-      &quot;module&quot;,
-      &quot;repository&quot;
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Java Projects\Backend Java Low Level Design\src\main\java\ConcurrencyProcessesandThreads\executerService" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.interfac.Client">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritence.Client" />
-      <module name="Backend_Java_Low_Level_Design" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="inheritence.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConcurrencExecutorAndCallablesRevision.Callables.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConcurrencExecutorAndCallablesRevision.Callables.Client" />
-      <module name="Backend_Java_Low_Level_Design" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ConcurrencExecutorAndCallablesRevision.Callables.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Statick.Main">
     <configuration name="JavaInterviewQuestions.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaInterviewQuestions.Client" />
       <module name="Backend_Java_Low_Level_Design" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="JavaInterviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AbstractClass.Main" />
+      <module name="Backend_Java_Low_Level_Design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AbstractClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Statick.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Statick.Main" />
+      <module name="Backend_Java_Low_Level_Design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Statick.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,10 +176,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.interfac.Client" />
+        <item itemvalue="Application.Statick.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.polymorphism.Client" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.ConcurrencExecutorAndCallablesRevision.Callables.Client" />
+        <item itemvalue="Application.interfac.Client" />
         <item itemvalue="Application.JavaInterviewQuestions.Client" />
       </list>
     </recent_temporary>
@@ -197,7 +205,9 @@
       <workItem from="1691006001538" duration="3495000" />
       <workItem from="1691172774413" duration="2786000" />
       <workItem from="1691210253573" duration="49000" />
-      <workItem from="1691228070310" duration="7361000" />
+      <workItem from="1691228070310" duration="7524000" />
+      <workItem from="1691746731679" duration="1569000" />
+      <workItem from="1691749778464" duration="5053000" />
     </task>
     <servers />
   </component>
@@ -236,6 +246,11 @@
           <line>6</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Statick/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/ConcurrencyProcessesandThreads/Client.java</url>
           <line>8</line>
@@ -244,6 +259,12 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/Statick/StudetInterface.java</url>
+          <line>3</line>
+          <properties field="CollegeName" class="Statick.StudetInterface" />
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
