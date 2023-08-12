@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="347c402f-eb28-4ff2-8a6b-afd32444138b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritence/dimondProblem/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritence/dimondProblem/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritence/dimondProblem/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritence/dimondProblem/ClinetClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inheritence/dimondProblem/Maim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections2/P.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collections2/SpeedComparator.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Create related classes 1 - (Point and Rectangle)" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Scaler_Video_Library" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../class-client-display-method----method-overloading-and-overriding-base" afterDir="false" />
@@ -26,6 +26,7 @@
       <change afterPath="$PROJECT_DIR$/../threads-with-callables-2-base" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../threads-with-callables-base" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Collections2/PriorityQueue.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Spring/explorecali/explorecali/src/main/java/com/example/ec/explorecali/ExplorecaliApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring/explorecali/explorecali/src/main/java/com/example/ec/explorecali/ExplorecaliApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,7 +109,20 @@
       <recent name="inheritence.dimondProblem" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Maim">
+  <component name="RunManager" selected="Application.P">
+    <configuration name="Collections2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections2.Main" />
+      <module name="Backend_Java_Low_Level_Design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collections2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Maim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="inheritence.dimondProblem.Maim" />
       <module name="Backend_Java_Low_Level_Design" />
@@ -135,6 +149,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections2.P" />
+      <module name="Backend_Java_Low_Level_Design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collections2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Statick.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Statick.Main" />
       <module name="Backend_Java_Low_Level_Design" />
@@ -148,39 +175,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="interfac.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfac.Client" />
-      <module name="Backend_Java_Low_Level_Design" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interfac.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="polymorphism.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="polymorphism.Client" />
-      <module name="Backend_Java_Low_Level_Design" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="polymorphism.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P" />
+        <item itemvalue="Application.Collections2.Main" />
         <item itemvalue="Application.Maim" />
         <item itemvalue="Application.Statick.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.polymorphism.Client" />
-        <item itemvalue="Application.interfac.Client" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +208,7 @@
       <workItem from="1691210253573" duration="49000" />
       <workItem from="1691228070310" duration="7524000" />
       <workItem from="1691746731679" duration="1569000" />
-      <workItem from="1691749778464" duration="6448000" />
+      <workItem from="1691749778464" duration="12028000" />
     </task>
     <servers />
   </component>
