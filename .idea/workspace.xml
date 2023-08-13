@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="347c402f-eb28-4ff2-8a6b-afd32444138b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/java8Feacctures/lambda/DemoProjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java8Feacctures/lambda/lambdaFunctionNew.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,26 +90,13 @@
       <recent name="inheritence.dimondProblem" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DemoProjects">
+  <component name="RunManager" selected="Application.lambdaFunctionNew">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java8Feacctures.MultipleImplemeationOfTheWay2Method.Client" />
       <module name="Backend_Java_Low_Level_Design" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="java8Feacctures.MultipleImplemeationOfTheWay2Method.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Collections2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections2.Main" />
-      <module name="Backend_Java_Low_Level_Design" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Collections2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,13 +143,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lambdaFunctionNew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8Feacctures.lambda.lambdaFunctionNew" />
+      <module name="Backend_Java_Low_Level_Design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8Feacctures.lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lambdaFunctionNew" />
         <item itemvalue="Application.DemoProjects" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.java8Feacctures.lambda.Main" />
         <item itemvalue="Application.P" />
-        <item itemvalue="Application.Collections2.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +191,8 @@
       <workItem from="1691746731679" duration="1569000" />
       <workItem from="1691749778464" duration="17046000" />
       <workItem from="1691859019450" duration="154000" />
-      <workItem from="1691859279922" duration="2166000" />
+      <workItem from="1691859279922" duration="3660000" />
+      <workItem from="1691902519998" duration="3723000" />
     </task>
     <servers />
   </component>
@@ -211,6 +212,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
