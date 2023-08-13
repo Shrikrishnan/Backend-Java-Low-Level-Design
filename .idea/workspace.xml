@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="347c402f-eb28-4ff2-8a6b-afd32444138b" name="Changes" comment="" />
+    <list default="true" id="347c402f-eb28-4ff2-8a6b-afd32444138b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/SOLID_Principles/SRP/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -191,7 +194,7 @@
       <workItem from="1691749778464" duration="17046000" />
       <workItem from="1691859019450" duration="154000" />
       <workItem from="1691859279922" duration="3660000" />
-      <workItem from="1691902519998" duration="4770000" />
+      <workItem from="1691902519998" duration="7569000" />
     </task>
     <servers />
   </component>
